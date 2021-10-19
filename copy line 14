@@ -1,0 +1,15 @@
+C:\Users\ravik\demo\Scripts>activate
+
+(demo) C:\Users\ravik\demo\Scripts>cd..
+
+(demo) C:\Users\ravik\demo>cd djangochat5
+
+(demo) C:\Users\ravik\demo\djangochat5>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 19, 2021 - 11:52:44
+Django version 3.2.8, using settings 'djangochat5.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
